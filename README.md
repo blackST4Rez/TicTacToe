@@ -1,14 +1,6 @@
-# Tic Tac Toe 🎮
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5a26ed25-3a08-47b0-a72a-88f36e64bccc" /># Tic Tac Toe 🎮
 
 > A clean, minimal Tic‑Tac‑Toe game built with **HTML**, **CSS**, and **JavaScript** — playable in any modern browser.
-
----
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="36"/>&nbsp;&nbsp; **HTML5**
-  &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/css3/663399" alt="CSS3" width="36"/>&nbsp;&nbsp; **CSS3**
-  &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="36"/>&nbsp;&nbsp; **JavaScript**
-</p>
 
 ---
 
