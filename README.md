@@ -4,14 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="36"/>&nbsp;&nbsp; **HTML5**
-  &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="36"/>&nbsp;&nbsp; **CSS3**
-  &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="36"/>&nbsp;&nbsp; **JavaScript**
-</p>
-
----
-
 ## ✨ Features
 
 - Clean, responsive UI with pleasant colors and accessible controls ✅
