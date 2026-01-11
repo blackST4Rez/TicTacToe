@@ -1,0 +1,109 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "JetBrains Mono", monospace ;
+}
+
+body{
+    background-color: rgb(34, 34, 34);
+    color: white;
+    text-align: center;
+}
+
+h1{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-size: 8vmin;
+    margin-left: 37%;
+}
+
+.container{
+    margin-left: 10%;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(bg.svg);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+.game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 0.8rem;
+    margin-left: 30%;
+}
+
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    border: 1px solid #0F2854;
+    box-shadow: 0 0 1rem rgb(24, 24, 24);
+    font-size: 8vmin;
+    background-color: #00ADB5;
+    color: white;
+    border-radius: 0.5rem;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.box:hover{
+    background-color: #005461;
+}
+
+#resetBtn{
+    padding: 10px 40px;
+    font-size: 4vmin;
+    color: rgb(255, 255, 255);
+    background-color: #d62b2b;
+    border: none;
+    border-radius: 2rem;
+    box-shadow: 0 0 1rem rgb(24, 24, 24);
+    transition: background-color 0.5s ease-in-out;
+    margin-left: 37%;
+}
+
+#resetBtn:hover{
+    background-color: #ad1515;
+    border-radius: 2.5rem;
+}
+
+#newBtn{
+    padding: 10px 40px;
+    font-size: 4vmin;
+    background-color: #249E94;
+    color: rgb(27, 27, 27);
+    border: none;
+    box-shadow: 0 0 1rem rgb(24, 24, 24);
+    border-radius: 2rem;
+    margin-top: 10px;
+    transition: background-color 0.2s ease-in-out;
+}
+
+#newBtn:hover{
+    background-color: #08CB00;
+    color: rgb(27, 27, 27);
+}
+
+#msg{
+    color: white;
+    font-size: 5vmin;
+}
+
+.msg-container{
+    padding-top: 20%;
+    padding-left: 40%;
+    background-image: url(win.svg);
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.hide{
+    display: none;
+}
